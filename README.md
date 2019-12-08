@@ -31,9 +31,9 @@
 	+ Dial to the number in 'Dialogflow Phone Gateway'
 	+ Tell 'I want to know my account balance'
 	+ Tell the phone number
-	+ Tell the otp authenticated
+	+ Tell the otp if not authenticated
 	+ Then the bot will reply back with the right account balance
-+ Money Transfer
++ Money Transfer Workflow
 	+ Dial to the number in ‘Dialogflow Phone Gateway’
 	+ Tell 'I want to transfer money'
 	+ Tell the amount you want to transfer
